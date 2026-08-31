@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:ff0000,100:00eaff&height=200&section=header&text=EDSON%20CLAUDESON&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:ff0000,100:00eaff&height=200&section=header&text=JAPONES%20&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
 # ⚡ JAPONES ⚡
 
@@ -29,7 +29,7 @@
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 
-nome: Edson Claudeson
+nome: JAPONES
 profissão: Desenvolvedor
 
 foco:
@@ -64,13 +64,18 @@ objetivo:
         └─────────────────────────────────────┘
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs"/>
-<br><br>
-<img src="https://skillicons.dev/icons?i=nodejs,python,java,php,mysql,mongodb"/>
-<br><br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux"/> </div>
-<div align="center">
 
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,java,php,mysql,mongodb"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux"/> </div>
+
+<div align="center">
 ╔═══════════════════════════════════╗
 ║                                   ║
 ║          ⚡ NEYMAR JR ⚡           ║
@@ -81,7 +86,6 @@ objetivo:
 ║                                   ║
 ╚═══════════════════════════════════╝
 <br>
-
 ╔═══════════════════════════════════╗
 ║                                   ║
 ║       🪄 RONALDINHO GAÚCHO 🪄     ║
@@ -91,7 +95,6 @@ objetivo:
 ║        FUTEBOL COMO ARTE          ║
 ║                                   ║
 ╚═══════════════════════════════════╝
-
 </div>
 
 <div align="center">
@@ -139,9 +142,8 @@ objetivo:
 🎮 Game Project	Projeto relacionado a games	JavaScript
 </div>
 
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=ff0000&title_color=ff0000&icon_color=00eaff"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=radical&border_color=00eaff&title_color=00eaff"/> </div>
 
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=050505&color=ffffff&line=ff0000&point=00eaff&area=true&hide_border=true&custom_title=EDSON%20CLAUDESON%20-%20CONTRIBUI%C3%87%C3%95ES"/> </div>
+
 
 <div align="center">
 </div>
