@@ -28,29 +28,29 @@
 ║        "Transformando ideias em código."                ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
-<img src="https://github.com/bracolshoota/5/blob/main/violetblue-ezgif.com-remove-background.gif" width="100%" loading="lazy">
+
 nome: JAPONES
 profissão: Desenvolvedor
-<img src="https://github.com/bracolshoota/5/blob/main/violetblue-ezgif.com-remove-background.gif" width="100%" loading="lazy">
+
 foco:
   - Desenvolvimento Web
   - Front-End
   - Aplicações Mobile
   - UI/UX
   - Tecnologia
-<img src="https://github.com/bracolshoota/5/blob/main/violetblue-ezgif.com-remove-background.gif" width="100%" loading="lazy">
+
 paixões:
   - ⚽ Futebol
   - 💻 Programação
   - 🎮 Games
   - 🎨 Design
   - 🚀 Projetos
-<img src="https://github.com/bracolshoota/5/blob/main/violetblue-ezgif.com-remove-background.gif" width="100%" loading="lazy">
+
 objetivo:
   - Evoluir todos os dias
   - Criar projetos incríveis
   - Transformar ideias em realidade
-<img src="https://github.com/bracolshoota/5/blob/main/violetblue-ezgif.com-remove-background.gif" width="100%" loading="lazy">
+
         ┌─────────────────────────────────────┐
         │                                     │
         │       ⚽ FUTEBOL + TECNOLOGIA       │
@@ -62,7 +62,7 @@ objetivo:
         │          🚀 EVOLUIR                 │
         │                                     │
         └─────────────────────────────────────┘
-<img src="https://github.com/bracolshoota/5/blob/main/violetblue-ezgif.com-remove-background.gif" width="100%" loading="lazy">
+
 ╔═══════════════════════════════════╗
 ║                                   ║
 ║          ⚡ NEYMAR JR ⚡           ║
@@ -72,7 +72,7 @@ objetivo:
 ║       ⚽ CRIATIVIDADE ⚽           ║
 ║                                   ║
 ╚═══════════════════════════════════╝
-<img src="https://github.com/bracolshoota/5/blob/main/violetblue-ezgif.com-remove-background.gif" width="100%" loading="lazy">
+
 ╔═══════════════════════════════════╗
 ║                                   ║
 ║       🪄 RONALDINHO GAÚCHO 🪄     ║
@@ -82,7 +82,7 @@ objetivo:
 ║        FUTEBOL COMO ARTE          ║
 ║                                   ║
 ╚═══════════════════════════════════╝
-<img src="https://github.com/bracolshoota/5/blob/main/violetblue-ezgif.com-remove-background.gif" width="100%" loading="lazy">
+
 ╔════════════════════════════════════════════╗
 ║                                            ║
 ║                 ⚽ PLAYER ⚽                ║
@@ -99,7 +99,7 @@ objetivo:
 ║                  ⚡ 90 OVR ⚡               ║
 ║                                            ║
 ╚════════════════════════════════════════════╝
-<img src="https://github.com/bracolshoota/5/blob/main/violetblue-ezgif.com-remove-background.gif" width="100%" loading="lazy">
+
 🏆 ───────────────────────────────────────── 🏆
 
         💻 PROJETOS CRIADOS
@@ -112,7 +112,7 @@ objetivo:
 
         🎯 FOCO NOS OBJETIVOS
 🏆 ───────────────────────────────────────── 🏆
-<img src="https://github.com/bracolshoota/5/blob/main/violetblue-ezgif.com-remove-background.gif" width="100%" loading="lazy">
+
 ⚽ PROJETO	💡 DESCRIÇÃO	🛠️ TECNOLOGIA
 🏟️ Football App	Aplicação sobre futebol	React
 ⚡ LED Portfolio	Portfólio com efeito neon	HTML/CSS/JS
@@ -120,7 +120,7 @@ objetivo:
 🪄 Ronaldinho Page	Página temática	React
 📊 Football Dashboard	Dashboard esportivo	React/API
 🎮 Game Project	Projeto relacionado a games	JavaScript
-<img src="https://github.com/bracolshoota/5/blob/main/violetblue-ezgif.com-remove-background.gif" width="100%" loading="lazy">
+
                     LEVEL UP
 
 2024    ███████░░░░░░░░░░░░░░░░░░   30%
@@ -130,7 +130,7 @@ objetivo:
 2026    █████████████████████░░░░   85%
 
 NEXT    ██████████████████████████ 100%
-<img src="https://github.com/bracolshoota/5/blob/main/violetblue-ezgif.com-remove-background.gif" width="100%" loading="lazy">
+
 
                   ⚡ 🚀 ⚡
 
@@ -143,7 +143,7 @@ NEXT    ████████████████████████
               /     ⚡     \
              /              \
             /________________\
-<img src="https://github.com/bracolshoota/5/blob/main/violetblue-ezgif.com-remove-background.gif" width="100%" loading="lazy">
+
 
        FRONT-END     █████████████████░░░ 90%
 
@@ -156,7 +156,7 @@ NEXT    ████████████████████████
        UI / UX       ████████████████░░░░ 85%
 
        CRIATIVIDADE  ████████████████████ 100%
-<img src="https://github.com/bracolshoota/5/blob/main/violetblue-ezgif.com-remove-background.gif" width="100%" loading="lazy">
+
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
 ║       ⚽ JOGUE COM ALEGRIA                           ║
@@ -170,18 +170,18 @@ NEXT    ████████████████████████
 ║       🔥 NUNCA DESISTA                               ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
-<img src="https://github.com/bracolshoota/5/blob/main/violetblue-ezgif.com-remove-background.gif" width="100%" loading="lazy">
+
 ☑ Aprender novas tecnologias
 ☑ Criar projetos cada vez melhores
 ☑ Melhorar minhas habilidades
 ☑ Contribuir com a comunidade
 ☑ Criar experiências incríveis
 ☑ Nunca parar de aprender
-<img src="https://github.com/bracolshoota/5/blob/main/violetblue-ezgif.com-remove-background.gif" width="100%" loading="lazy">
+
 ⚽ ⚡ CODE LIKE NEYMAR ⚡ ⚽
 🪄 CREATE LIKE RONALDINHO 🪄
 🔥 EVOLVE EVERY DAY 🔥
-<img src="https://github.com/bracolshoota/5/blob/main/violetblue-ezgif.com-remove-background.gif" width="100%" loading="lazy">
+
 ████████████████████████████████████████████████
 
         ⚽ EDSON CLAUDESON ⚽
@@ -189,4 +189,3 @@ NEXT    ████████████████████████
         💻 CODE • CREATE • EVOLVE
 
 ████████████████████████████████████████████████
-<img src="https://github.com/bracolshoota/5/blob/main/violetblue-ezgif.com-remove-background.gif" width="100%" loading="lazy">
