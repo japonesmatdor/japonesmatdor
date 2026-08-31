@@ -63,19 +63,7 @@ objetivo:
         │                                     │
         └─────────────────────────────────────┘
 
-<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=nodejs,python,java,php,mysql,mongodb"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux"/> </div>
-
-<div align="center">
 ╔═══════════════════════════════════╗
 ║                                   ║
 ║          ⚡ NEYMAR JR ⚡           ║
@@ -85,7 +73,6 @@ objetivo:
 ║       ⚽ CRIATIVIDADE ⚽           ║
 ║                                   ║
 ╚═══════════════════════════════════╝
-<br>
 ╔═══════════════════════════════════╗
 ║                                   ║
 ║       🪄 RONALDINHO GAÚCHO 🪄     ║
@@ -95,9 +82,6 @@ objetivo:
 ║        FUTEBOL COMO ARTE          ║
 ║                                   ║
 ╚═══════════════════════════════════╝
-</div>
-
-<div align="center">
 ╔════════════════════════════════════════════╗
 ║                                            ║
 ║                 ⚽ PLAYER ⚽                ║
@@ -114,9 +98,7 @@ objetivo:
 ║                  ⚡ 90 OVR ⚡               ║
 ║                                            ║
 ╚════════════════════════════════════════════╝
-</div>
 
-<div align="center">
 🏆 ───────────────────────────────────────── 🏆
 
         💻 PROJETOS CRIADOS
@@ -130,9 +112,7 @@ objetivo:
         🎯 FOCO NOS OBJETIVOS
 
 🏆 ───────────────────────────────────────── 🏆
-</div>
 
-<div align="center">
 ⚽ PROJETO	💡 DESCRIÇÃO	🛠️ TECNOLOGIA
 🏟️ Football App	Aplicação sobre futebol	React
 ⚡ LED Portfolio	Portfólio com efeito neon	HTML/CSS/JS
@@ -140,17 +120,7 @@ objetivo:
 🪄 Ronaldinho Page	Página temática	React
 📊 Football Dashboard	Dashboard esportivo	React/API
 🎮 Game Project	Projeto relacionado a games	JavaScript
-</div>
 
-
-
-
-<div align="center">
-</div>
-
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=radical&no-frame=true&no-bg=true&margin-w=5&column=7"/> </div>
-
-<div align="center">
                     LEVEL UP
 
 2024    ███████░░░░░░░░░░░░░░░░░░   30%
@@ -162,9 +132,7 @@ objetivo:
 NEXT    ██████████████████████████ 100%
 
                   ⚡ 🚀 ⚡
-</div>
 
-<div align="center">]
                     ⚽
                    /  \
                   /    \
@@ -186,9 +154,7 @@ NEXT    ████████████████████████
        UI / UX       ████████████████░░░░ 85%
 
        CRIATIVIDADE  ████████████████████ 100%
-</div>
 
-<div align="center">
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
 ║       ⚽ JOGUE COM ALEGRIA                           ║
@@ -202,7 +168,6 @@ NEXT    ████████████████████████
 ║       🔥 NUNCA DESISTA                               ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
-</div>
 
 ☑ Aprender novas tecnologias
 ☑ Criar projetos cada vez melhores
@@ -211,9 +176,6 @@ NEXT    ████████████████████████
 ☑ Criar experiências incríveis
 ☑ Nunca parar de aprender
 
-<div align="center"> <a href="https://github.com/SEU_USUARIO"> <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=ffffff"/> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00eaff"/> </a> <a href="mailto:SEU_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/Gmail-050505?style=for-the-badge&logo=gmail&logoColor=ff0000"/> </a> </div>
-
-<div align="center">
 ⚽ ⚡ CODE LIKE NEYMAR ⚡ ⚽
 🪄 CREATE LIKE RONALDINHO 🪄
 🔥 EVOLVE EVERY DAY 🔥
@@ -225,4 +187,3 @@ NEXT    ████████████████████████
         💻 CODE • CREATE • EVOLVE
 
 ████████████████████████████████████████████████
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,50:ff0000,100:050505&height=150&section=footer&animation=twinkling"/> </div> ```
