@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:ff0000,100:00eaff&height=200&section=header&text=EDSON%20CLAUDESON&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
-# ⚡ EDSON CLAUDESON ⚡
+# ⚡ JAPONES ⚡
 
 ### 💻 Desenvolvedor | ⚽ Futebol | 🔥 Tecnologia | 🚀 Criatividade
 
