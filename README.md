@@ -6,7 +6,8 @@
 
 ### 💻 Desenvolvedor | ⚽ Futebol | 🔥 Tecnologia | 🚀 Criatividade
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2500&pause=700&color=FF0000&center=true&vCenter=true&width=700&lines=SEJA+BEM-VINDO+AO+MEU+GITHUB+%E2%9A%A1;CODANDO+COM+PAIX%C3%83O+%F0%9F%92%BB;FUTEBOL+%E2%9A%BD+%2B+TECNOLOGIA+%F0%9F%94%A5;CRIAR.+CODAR.+EVOLUIR.+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2500&pause=700&color=FF0000&center=true&vCenter=true&width=700&lines=%E8%87%AA%E5%88%86%E8%87%AA%E8%BA%AB%E3%82%92%E5%A3%B2%E3%82%8A%E8%BE%BC%E3%82%82%E3%81%86" />
+
 
 </div>
 
