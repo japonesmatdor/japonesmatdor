@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/bracolshoota/5/blob/main/violetblue-ezgif.com-remove-background.gif" width="100%" loading="lazy">
+<img src="https://i.pinimg.com/originals/52/78/4c/52784cd19b12e49c4b7cff942b9692af.gif" width="100%" loading="lazy">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:ff0000,100:00eaff&height=200&section=header&text=JAPONES%20&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
 # ⚡ JAPONES ⚡
@@ -19,13 +19,13 @@
 ```text
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║                ⚡ EDSON CLAUDESON ⚡                     ║
+║                ⚡ japones ⚡                            ║
 ║                                                          ║
 ║          💻 DESENVOLVIMENTO • TECNOLOGIA 💻             ║
 ║                                                          ║
 ║             ⚽ FUTEBOL • CÓDIGO • LED ⚡                ║
 ║                                                          ║
-║        "Transformando ideias em código."                ║
+║        "Transformando ideias em código."                 ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 
@@ -65,17 +65,17 @@ objetivo:
 
 ╔═══════════════════════════════════╗
 ║                                   ║
-║          ⚡ NEYMAR JR ⚡           ║
+║          ⚡ NEYMAR JR ⚡         ║
 ║                                   ║
 ║       DRIBLE • TALENTO • ARTE     ║
 ║                                   ║
-║       ⚽ CRIATIVIDADE ⚽           ║
+║       ⚽ CRIATIVIDADE ⚽         ║
 ║                                   ║
 ╚═══════════════════════════════════╝
 
 ╔═══════════════════════════════════╗
 ║                                   ║
-║       🪄 RONALDINHO GAÚCHO 🪄     ║
+║       🪄 RONALDINHO GAÚCHO 🪄    ║
 ║                                   ║
 ║          MAGIA • ALEGRIA          ║
 ║                                   ║
@@ -85,7 +85,7 @@ objetivo:
 
 ╔════════════════════════════════════════════╗
 ║                                            ║
-║                 ⚽ PLAYER ⚽                ║
+║                 ⚽ PLAYER ⚽              ║
 ║                                            ║
 ║               EDSON CLAUDESON              ║
 ║                                            ║
@@ -96,7 +96,7 @@ objetivo:
 ║  🎨 DESIGN           ███████████░░░  87    ║
 ║  🔥 MOTIVAÇÃO        ██████████████ 100    ║
 ║                                            ║
-║                  ⚡ 90 OVR ⚡               ║
+║                  ⚡ 90 OVR ⚡             ║
 ║                                            ║
 ╚════════════════════════════════════════════╝
 
